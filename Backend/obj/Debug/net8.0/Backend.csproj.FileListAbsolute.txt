@@ -181,6 +181,7 @@
 /Users/kushanijayawardane/Documents/Docs/Pet-Store System/Backend/obj/Debug/net8.0/Backend.MvcApplicationPartsAssemblyInfo.cache
 /Users/kushanijayawardane/Documents/Docs/Pet-Store System/Backend/obj/Debug/net8.0/Backend.RazorAssemblyInfo.cache
 /Users/kushanijayawardane/Documents/Docs/Pet-Store System/Backend/obj/Debug/net8.0/Backend.RazorAssemblyInfo.cs
+/Users/kushanijayawardane/Documents/Docs/Pet-Store System/Backend/obj/Debug/net8.0/Backend.sourcelink.json
 /Users/kushanijayawardane/Documents/Docs/Pet-Store System/Backend/obj/Debug/net8.0/staticwebassets.build.json
 /Users/kushanijayawardane/Documents/Docs/Pet-Store System/Backend/obj/Debug/net8.0/staticwebassets.development.json
 /Users/kushanijayawardane/Documents/Docs/Pet-Store System/Backend/obj/Debug/net8.0/staticwebassets/msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
